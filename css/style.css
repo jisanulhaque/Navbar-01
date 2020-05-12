@@ -1,0 +1,57 @@
+/*Heaer start*/
+
+header{
+	overflow: hidden;
+	background-color: white;
+	min-height: 30px;
+	margin: 0 auto;
+}
+
+
+.logo{
+	width: 20%;
+	float: left;
+	display: inline-block;
+}
+
+.logo a{
+	cursor: pointer;
+}
+
+.logo a img{
+	width:100%;
+	display: inline-block;
+}
+
+
+.navbar{
+	width: 70%;
+    float: right;
+    margin-top: 10px;
+
+}
+
+.navbar ul{
+	float: left;
+    padding: 0px;
+
+}
+
+.navbar ul li{
+	list-style-type: none;
+	float:left;
+}
+
+.navbar ul li a{
+	text-decoration: none;
+	font: 16px;
+    font-family: sans-serif;
+    padding: 0px 40px;
+    display: inline-block;
+	text-transform: uppercase;
+
+}
+/**************Nav bar 2 ************/
+
+
+/*Header End*/
